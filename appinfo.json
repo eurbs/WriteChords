@@ -1,0 +1,85 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "emileeurbanek@gmail.com",
+    "longName": "WriteChords",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/fretbrd.png",
+                "name": "IMAGE_FRET_BOARD",
+                "type": "png"
+            },
+            {
+                "file": "data/ref_B",
+                "name": "REF_B",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_C",
+                "name": "REF_C",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_CD",
+                "name": "REF_CD",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_D",
+                "name": "REF_D",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_DE",
+                "name": "REF_DE",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_E",
+                "name": "REF_E",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_F",
+                "name": "REF_F",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_FG",
+                "name": "REF_FG",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_G",
+                "name": "REF_G",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_GA",
+                "name": "REF_GA",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_A",
+                "name": "CHORD_A",
+                "type": "raw"
+            },
+            {
+                "file": "data/ref_AB",
+                "name": "CHORD_AB",
+                "type": "raw"
+            }
+        ]
+    },
+    "shortName": "WriteChords",
+    "uuid": "63dcc483-893c-422d-a71c-a6ecd93ef51d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
